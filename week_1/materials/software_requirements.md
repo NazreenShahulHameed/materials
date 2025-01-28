@@ -3,7 +3,7 @@
 ## 1. Python  
 - Download: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
 - Not Recommended IDE: VS Code, PyCharm, or Jupyter Notebook.
-- Recommended: Google Colab. You need to have a Gmail account [Clicl Here](https://colab.research.google.com/#create=true)
+- Recommended: Google Colab. You need to have a Gmail account [Click Here](https://colab.research.google.com/#create=true)
 
 ## 2. Power BI  
 - Download: [Power BI Desktop](https://powerbi.microsoft.com/desktop/).  
