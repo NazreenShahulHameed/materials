@@ -4,7 +4,7 @@ Welcome to the **Materials Repository** for the Data Analytics Program (DAP) Thi
 
 ## 📂 Repository
 - **[Week_1](https://github.com/DAPLearning2025/materials/tree/main/week_1)**: Orientation details, setup guide, and resources.  
-- **Week_2/**: Week 2 agenda, materials, and assignments: Coming Soon!!!  
+- **[Week_2](https://github.com/DAPLearning2025/materials/tree/main/week_2)/**: Week 2 agenda, materials, and assignments: Uploaded!!!  
 - *... and more as the program progresses.*
 
 ## 🗂️ How to Use This Repository  
