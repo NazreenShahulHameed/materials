@@ -12,6 +12,9 @@ Welcome to the **Materials Repository** for the Data Analytics Program (DAP) Thi
 - **[Week_7](https://github.com/DAPLearning2025/materials/tree/main/Demos/Python)/**: Week 7 Demo.
 - **[Week_8](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/Demo_Breakout_Rooms2_S.ipynb)/**: Week 8 Demo.
 - **[Week_9](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/DAP_Demo9_IntroToFiles.ipynb)/**: Week 9 demo
+- **[Week_10](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/DAP_Demo9_IntroToFiles.ipynb)/**: Week 10 demo
+- **[Week_11]()**: April 19, our first in person meeting
+- **[Week_12]()/**: Coming soon
  
 - *... and more as the program progresses.*
 
