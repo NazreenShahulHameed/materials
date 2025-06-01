@@ -17,7 +17,8 @@ Welcome to the **Materials Repository** for the Data Analytics Program (DAP) Thi
 - **[Week_12](https://github.com/DAPLearning2025/materials/tree/main/week_12)**: Week 12 Slides & Demo
 - **[Week_13](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/Getting_started_with_machine_learning__Week13.ipynb)**: Week 13 Intro to ML
 - **[Week_14](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/Machine%20Learning/LinearRegression_Week14.ipynb)**: Week 14 Linear Regression
- - **[Week_15](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/Machine%20Learning/Logistic_Regression_Week15.ipynb)**: Week 15 Lgistic Regression
+ - **[Week_15](https://github.com/DAPLearning2025/materials/blob/main/Demos/Python/Machine%20Learning/Logistic_Regression_Week15.ipynb)**: Week 15 Logistic Regression
+ - **[Week_16](https://github.com/DAPLearning2025/DAPLearning2025/blob/main/UnsupervisedLearning_K_MeansClustering.ipynb)**: Week 16 K-means Clustering (Unsupervised Learning)
  
 - *... and more as the program progresses.*
 
